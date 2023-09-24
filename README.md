@@ -1,16 +1,19 @@
-# expense_tracker
+# Expense Tracker
 
-A new Flutter project.
+App for tracking spending. Users can add expenses, delete expenses, and see a list and a chart of their expenses by categorty. Respects system theme settings.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Executing program
 
-A few resources to get you started if this is your first Flutter project:
+- clone and/or fork and clone the repo
+- open the project in your IDE of choice
+- run the following commands in your terminal
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![main content](https://i.imgur.com/68KNDjCl.png)
+![add expense](https://i.imgur.com/LO06qeGl.png)
